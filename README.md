@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![yuri_tax](images/yuri_tax.jpg)
+
 <!--
 **Lamsect/Lamsect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
